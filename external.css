@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+}
+
+h1
+{
+    font-size:3rem;
+    color:#21325E;
+}
+
+h2
+{
+    font-size: 2rem;
+    color: #E60965;
+}
+.para
+{
+    font-size: 1.5rem;
+    color: #146356;
+}
+a
+{
+    text-decoration: none;
+    color:blue;
+}
+a:hover
+{
+    font-size: 2rem;
+}
